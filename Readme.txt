@@ -6,13 +6,22 @@ This is a simple, responsive personal portfolio website built with **HTML** and 
 
 ---
 
-## 🧰 Tech Stack
+## 🔍 Features
 
-* **HTML5**
-* **CSS3**
-* **Responsive Design**
-* **Live Server (for local development)**
-* **[Vercel](https://vercel.com) (for deployment)**
+* 📄 About Me Section
+* 💻 Projects Showcase
+* 📫 Contact Form
+* 📱 Responsive design for all devices
+* 🌐 Hosted with Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Styling           | Tools / Deployment |
+| -------- | ----------------- | ------------------ |
+| HTML5    | CSS3              | Live Server        |
+|          | Responsive Layout | Vercel             |
 
 ---
 
@@ -20,10 +29,10 @@ This is a simple, responsive personal portfolio website built with **HTML** and 
 
 ```
 malaikatariq-portfolio/
-├── index.html
-├── style.css
-├── assets/         # Images, icons, etc.
-└── README.md
+├── index.html              # Main HTML file
+├── style.css               # Main stylesheet
+├── assets/                 # Images, icons, etc.
+└── README.md               # Project documentation
 ```
 
 ---
@@ -35,14 +44,18 @@ malaikatariq-portfolio/
    ```bash
    git clone https://github.com/MalaikaTariq726/Portfolio.git
    ```
+
 2. Open the project folder in VS Code or your preferred editor.
+
 3. Right-click on `index.html` and select **"Open with Live Server"**.
-4. The site will open at `http://127.0.0.1:5500/` or a similar local address.
+
+4. The site will open in your browser at `http://127.0.0.1:5500/` or a similar local address.
 
 ---
 
 ## 📬 Contact
 
+* 📧 Email: [f219408@cfd.nu.edu.pk](mailto:f219408@cfd.nu.edu.pk)
 * 🌐 Portfolio: [https://malaikatariq.vercel.app](https://malaikatariq.vercel.app)
 
 ---
