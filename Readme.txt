@@ -37,15 +37,15 @@ malaikatariq-portfolio/
    ```
 2. Open the project folder in VS Code or your preferred editor.
 3. Right-click on `index.html` and select **"Open with Live Server"**.
-4. The site will open at `http://127.0.0.1:5500/` or similar.
+4. The site will open at `http://127.0.0.1:5500/` or a similar local address.
 
 ---
 
 ### 📬 Contact
+
 * 🌐 Portfolio: [https://malaikatariq.vercel.app](https://malaikatariq.vercel.app)
 
 ---
 
 > Built and maintained by Malaika Tariq.
 > Feel free to use this as a template or starting point for your own personal website.
-
