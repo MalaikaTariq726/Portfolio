@@ -1,4 +1,4 @@
-### 💼 Malaika Tariq – Personal Portfolio
+# 💼 Malaika Tariq – Personal Portfolio
 
 This is a simple, responsive personal portfolio website built with **HTML** and **CSS**. It highlights my professional background, skills, teaching experience, and projects.
 
@@ -6,7 +6,7 @@ This is a simple, responsive personal portfolio website built with **HTML** and 
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 * **HTML5**
 * **CSS3**
@@ -16,7 +16,7 @@ This is a simple, responsive personal portfolio website built with **HTML** and 
 
 ---
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```
 malaikatariq-portfolio/
@@ -28,7 +28,7 @@ malaikatariq-portfolio/
 
 ---
 
-### 🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 1. Clone the repository:
 
@@ -41,7 +41,7 @@ malaikatariq-portfolio/
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 * 🌐 Portfolio: [https://malaikatariq.vercel.app](https://malaikatariq.vercel.app)
 
