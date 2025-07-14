@@ -55,7 +55,7 @@ malaikatariq-portfolio/
 
 ## 📬 Contact
 
-* 📧 Email: [f219408@cfd.nu.edu.pk](mailto:f219408@cfd.nu.edu.pk)
+* 📧 Email: [tariqmalaika09@gmail.com](mailto:tariqmalaika09@gmail.com)
 * 🌐 Portfolio: [https://malaikatariq.vercel.app](https://malaikatariq.vercel.app)
 
 ---
